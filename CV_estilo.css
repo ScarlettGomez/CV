@@ -1,0 +1,32 @@
+.mainContainer{
+    display: flex;
+    border: double rgb(21, 21, 77); 
+    justify-content: space-evenly;
+}
+.headingContainer{
+    flex-wrap: column wrap;
+    background: orange;
+    width: 20px;
+    justify-content: space-around;
+}
+.foto{
+    width:180px;
+}
+.column1{
+    flex-flow: column wrap;
+    justify-content: space-around;
+    width: 200px;
+}
+.column2{
+    flex-flow: column wrap;
+    justify-content: space-around;
+    width: 200px;
+}
+.column3{
+    flex-flow: column wrap;
+    justify-content: space-around;
+    width: 200px;
+}
+.title{
+    font-family:Arial, Helvetica, sans-serif;
+}
